@@ -1,0 +1,17 @@
+Langkah-langkah menjalankan program:
+
+
+1. menggunakan aplikasi visual studio code atau semacamnya
+
+2. pastikan terdapat file berikut:
+   "data_training.txt"
+   "data_testing.txt"
+   "data_prediksi.txt"
+
+3. running program "stockpredict.py"
+
+4. masukkan beberapa parameter yang diperlukan
+   pastikan node pada input layer  = 10
+   pastikan node pada output layer = 1
+
+5. selesai
